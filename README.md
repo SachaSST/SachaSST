@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha SItbon </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Sacha Sitbon </h1>
 
 ![github_cover_banner](https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966)
 
