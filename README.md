@@ -2,14 +2,6 @@
 
 ## 👋 Hi there! Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on [Your Company Name or Your Project]
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Type of Projects You Want to Collaborate on]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You're Comfortable Discussing]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
 
 ## 🛠️ Languages and Tools:
 
