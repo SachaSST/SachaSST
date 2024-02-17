@@ -15,7 +15,7 @@
 ## 🔗 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/sacha-sitbon-96b947279/)https://www.linkedin.com/in/sacha-sitbon-96b947279/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/sacha-sitbon-96b947279/)
 
 ## 📌 Pinned Repositories
 
